@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1, Musica - Vale 97.5
+http://player.longtailvideo.com/player.swf?file=live&autostart=true&streamer=rtmp://vale.stweb.tv:1935/vale
+
+#EXTINF:-1, Musica - La 100
+mms://wmedia02.uigc.net/la100
+
+#EXTINF:-1, Musica - Continental
+http://66.175.96.10/arcontinental 
+
+#EXTINF:-1, Musica - 40 Principales
+http://66.175.96.10/ARLOS40P
+
+#EXTINF:-1, Musica - Continental AM 590
+http://audio2.grupolatinoderadio.com/envivo.ASX?EMI=ARCON
